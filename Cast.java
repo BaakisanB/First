@@ -1,6 +1,6 @@
 public class Cast {
     public static void main(String[] args) {
-        int x = 5;
+        int x = 6;
         double y = 10.5;
 
         double xtod = x;
